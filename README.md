@@ -3,7 +3,7 @@ a small personal hardware helper
 
 ![arduino pomodoro timer](pomodoro-timer.png)
 
-![circuit diagram of the pomodoro timer](pomodoro-v2-circuit.png)
+![circuit diagram of the pomodoro timer](pomodoro-v2_circuit.png)
 
 ## Components
 * 1 Arduino Nano v3 or compatible microcontroller
