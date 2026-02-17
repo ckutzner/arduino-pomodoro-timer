@@ -1,3 +1,5 @@
+This project has moved to https://codeberg.org/modern_dragon/arduino-pomodoro-timer
+
 # arduino-pomodoro-timer
 a small personal hardware helper
 
